@@ -1,4 +1,5 @@
 ![](https://github.com/SparkDevTeams/ds2020_mauricio/workflows/Node.js%20CI/badge.svg)
+![Deploy to Amazon ECS](https://github.com/SparkDevTeams/ds_2020_branden/workflows/Deploy%20to%20Amazon%20ECS/badge.svg)
 
 # A simple Docker( React / Express ) App to practice CI / CD
 
